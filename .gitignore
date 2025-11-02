@@ -23,5 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 .env
-node_modules
 react-js-jsx-and-css-mastering-front-end-development-linet-M1/
+node_modules/
